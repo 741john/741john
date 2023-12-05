@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @741john
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning basic c language
+- 🌱 I’m currently learning the basics of c language
 - 
 
 <!---
